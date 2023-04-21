@@ -26,4 +26,6 @@
 
 ## Quick run
 
-Open the notebook `notebook.ipynb` in Google Colab and run all cells.
+Open the notebook `notebook.ipynb` in Google Colab and run all cells (`Runtime` > `Run all`).
+
+Or go to [Google Colab](https://colab.research.google.com/drive/1KQtAooxTh6m2FdoCW-skFZi_VFJRsef3?usp=sharing) and run cell by cell.
