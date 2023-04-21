@@ -1,7 +1,7 @@
 <div style="text-align: center">
     <span style="font-size: 3em; font-weight: 700; font-family: Consolas">
-        Lab 02 <br>
-        MapReduce Programming
+        Lab 03 <br>
+		Apache Spark with MongoDB
     </span>
     <br><br>
     <span style="">
@@ -26,4 +26,4 @@
 
 ## Quick run
 
-No idea what to write here.
+Open the notebook `notebook.ipynb` in Google Colab and run all cells.
